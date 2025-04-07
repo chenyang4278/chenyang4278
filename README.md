@@ -1,8 +1,8 @@
 ## About Me
 
-Hi — I’m Chen, a Statistics and Computer Science student at Purdue.
+Hi, I’m Chen! I'm a Statistics and Computer Science student at Purdue.
 
-I’m focused on building a strong foundation in math, programming, and machine learning. My work is driven by clarity — in how I think, what I build, and how systems connect beneath the surface.
+I focus on building a strong foundation in math, programming, and machine learning. My work is driven by clarity — in how I think, what I build, and how systems connect beneath the surface.
 
 I approach learning by doing: solving problems, exploring data, and writing code that’s simple, efficient, and built to last.
 
