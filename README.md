@@ -2,29 +2,29 @@
 
 Hi, I’m Chen! I'm a Statistics and Computer Science student at Purdue.
 
-I focus on building a strong foundation in math, programming, and machine learning. My work is driven by clarity — in how I think, what I build, and how systems connect beneath the surface.
+Right now I'm focusing on building a strong foundation in math, programming, and machine learning.
 
 I approach learning by doing: solving problems, exploring data, and writing code that’s simple, efficient, and built to last.
 
 ---
 
 ### Interests
-- Data science and machine learning  
+- ML models and its applications  
 - Mathematical reasoning and proofs  
 - Clean system and software design  
-- Projects with structure, depth, and purpose
+- Calisthenics :)
 
 ---
 
 ### Tools
-- **Languages:** Python, Java, R  
+- **Languages:** Python, Java, C#, R  
 - **Libraries:** NumPy, pandas, scikit-learn  
 - **Tools:** Git, Jupyter, VS Code, LaTeX
 
 ---
 
 ### Projects
-Most of what I’m working on is still in progress. What’s public reflects the groundwork — more is on the way.
+Most of what I’m working on is still in progress...
 
 ---
 
