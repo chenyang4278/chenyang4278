@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I’m Chen! I'm a Statistics and Computer Science student at Purdue.
+Hi, I’m Chen! I'm a Computer Science and Statistics Student at Purdue.
 
 Right now I'm focusing on building a strong foundation in math, programming, and machine learning.
 
@@ -17,9 +17,11 @@ I approach learning by doing: solving problems, exploring data, and writing code
 ---
 
 ### Tools
-- **Languages:** Python, Java, C#, R  
-- **Libraries:** NumPy, pandas, scikit-learn  
-- **Tools:** Git, Jupyter, VS Code, LaTeX
+- **Languages:** Python, R, C, Java, HTML
+- **Libraries and Packages:** NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch, TensorFlow, ggplot2, dplyr, tidyverse 
+- **Developer Tools:** Git, VS Code, IntelliJ, PyCharm, Eclipse, Visual Studio, MongoDB
+- **Statistical Tools:** Jupyter, RStudio, SQL, Excel
+- **Frameworks:** Flask, React.js, Node.js
 
 ---
 
