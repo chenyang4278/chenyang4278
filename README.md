@@ -18,7 +18,7 @@ Currently working on something I think will benefit my peers at my university :D
 
 ### Tools
 - **Languages:** Python, R, C, Java, HTML
-- **Libraries and Packages:** NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch, TensorFlow, ggplot2, dplyr, tidyverse 
+- **Libraries and Packages:** NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch, TensorFlow, ggplot2, dplyr 
 - **Developer Tools:** Git, VS Code, IntelliJ, PyCharm, Eclipse, Visual Studio, MongoDB
 - **Statistical Tools:** Jupyter, RStudio, SQL, Excel
 - **Frameworks:** Flask, React.js, Node.js
