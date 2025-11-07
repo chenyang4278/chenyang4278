@@ -1,18 +1,14 @@
 ## About Me
 
-Hi, I’m Chen! I'm a Computer Science and Statistics Student at Purdue.
-
-Right now I'm focusing on building a strong foundation in math, programming, and machine learning.
+Hi, I’m Chen! I'm a Computer Science and Applied Statistics Student at Purdue.
 
 Currently working on something I think will benefit my peers at my university :D
 
 ---
 
 ### Interests
-- ML models and its applications  
-- Mathematical reasoning and proofs  
-- Clean system and software design  
-- Calisthenics :)
+- ... 
+- ...
 
 ---
 
