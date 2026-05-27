@@ -1,9 +1,7 @@
-# Chen Yang
+# Hi guys! I'm Chen Yang :)
 
-I'm a Computer Science and Applied Statistics student at Purdue University, interested in machine learning, statistics, and software engineering.
+I'm a Computer Science and Applied Statistics student at Purdue University.
 
-I like building systems that connect models, data, and real users. My current work includes synthetic time-series generation, LLM reliability evaluation, and full-stack projects like Boiler Bites.
+I'm interested in machine learning, statistical reasoning, and software engineering. Most of my work centers on understanding how models behave, how to evaluate them, and how to build systems around them.
 
-`Python` `R` `C` `C++` `Java` `TypeScript` `React` `Next.js` `PostgreSQL` `PyTorch`
-
-[Website](https://chen-yang.tech)
+[my personal website!](https://chen-yang.tech)
