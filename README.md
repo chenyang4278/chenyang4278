@@ -1,4 +1,4 @@
-# Hi guys! I'm Chen Yang :)
+# Hi guys! I'm Chen :)
 
 I'm a Computer Science and Applied Statistics student at Purdue University.
 
